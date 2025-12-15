@@ -5,8 +5,8 @@
 
 <p align="center">
   <!-- Typing SVG (animated) -->
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+YOUR_NAME+%F0%9F%91%8B;Backend+%2F+Distributed+Systems+%2B+Agentic+AI;Kafka+%7C+LangGraph+%7C+RAG+%7C+Cloud+Infra;I+build+systems+that+ship+and+scale." alt="Typing SVG" />
+  <a href="https://github.com/ancjainil">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Jainil Rana +%F0%9F%91%8B;Backend+%2F+Distributed+Systems+%2B+Agentic+AI;Kafka+%7C+LangGraph+%7C+RAG+%7C+Cloud+Infra;I+build+systems+that+ship+and+scale." alt="Typing SVG" />
   </a>
 </p>
 
@@ -103,8 +103,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ancjainil/ancjainil/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/ancjainil/ancjainil/output/github-contribution-grid-snake.svg" alt="snake animation" />
   </picture>
 </p>
 
@@ -129,7 +129,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: ancjainil
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
