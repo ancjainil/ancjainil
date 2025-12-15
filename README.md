@@ -7,12 +7,19 @@ Repo name should be exactly: ancjainil/ancjainil
 <div align="center">
 
 <!-- ✨ Neon / arcade header (dark + light) -->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&height=220&text=Jainil%20Rana&fontSize=60&fontAlignY=38&desc=Agentic%20Systems%20%7C%20Distributed%20Backends%20%7C%20Streaming&descAlignY=65&animation=twinkling&stroke=7c3aed&color=0:0b1020,60:1b0f2e,100:2b1b5a&fontColor=ffffff" />
-  <img alt="header"
-    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Jainil%20Rana&fontSize=60&fontAlignY=38&desc=Agentic%20Systems%20%7C%20Distributed%20Backends%20%7C%20Streaming&descAlignY=65&animation=twinkling&stroke=2563eb&color=0:f8fafc,60:e0f2fe,100:fee2e2&fontColor=0f172a" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&height=220&text=Jainil%20Rana&fontSize=60&fontAlignY=38&desc=Agentic%20Systems%20%7C%20Distributed%20Backends%20%7C%20Data%20Engineering%20%7C%20Streaming&descAlignY=65&animation=twinkling&stroke=7c3aed&color=0:0b1020,60:1b0f2e,100:2b1b5a&fontColor=ffffff"
+  />
+  <img
+    alt="header"
+    src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Jainil%20Rana&fontSize=60&fontAlignY=38&desc=Agentic%20Systems%20%7C%20Distributed%20Backends%20%7C%20Data%20Engineering%20%7C%20Streaming&descAlignY=65&animation=twinkling&stroke=2563eb&color=0:f8fafc,60:e0f2fe,100:fee2e2&fontColor=0f172a"
+  />
 </picture>
+
+
 
 <!-- 🎮 “Now Playing” + Typing animation (arcade vibe) -->
 <img
